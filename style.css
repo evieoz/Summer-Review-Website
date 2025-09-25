@@ -97,3 +97,31 @@ body {
     font-size: 520%;
     transition: all 0.5s ease 0s;
 }
+
+p {
+    font-family: "salo-variable", sans-serif;
+    font-variation-settings: "opsz" 70;
+    color: #ec539b;
+    font-size: 130%;
+}
+
+h5 {
+    color:deeppink;
+    font-family: "gala-triline", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 200%;
+    transition: all 0.5s ease 0s;
+    text-align: center;
+}
+
+.card {
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 25px;
+    transition: all 0.5s ease 0s;
+}
+
+.card:hover {
+    filter: drop-shadow(8px 8px 10px rgb(255, 88, 160));
+    transition: all 0.5s ease 0s;
+}
