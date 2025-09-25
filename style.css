@@ -125,3 +125,11 @@ h5 {
     filter: drop-shadow(8px 8px 10px rgb(255, 88, 160));
     transition: all 0.5s ease 0s;
 }
+
+.row {
+  padding: 2%;
+}
+
+.card-title {
+  color: #ff27a5;
+}
