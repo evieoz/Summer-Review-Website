@@ -116,8 +116,7 @@ h5 {
 }
 
 .card {
-    border: 3px solid rgb(0, 0, 0);
-    border-radius: 25px;
+    border: 3px solid rgb(213, 20, 100);
     transition: all 0.5s ease 0s;
 }
 
@@ -132,4 +131,8 @@ h5 {
 
 .card-title {
   color: #ff27a5;
+}
+
+.card-body {
+  background-color: #000;
 }
